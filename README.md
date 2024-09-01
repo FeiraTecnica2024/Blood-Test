@@ -29,6 +29,7 @@ Criar uma aplicação que **capture e analise imagens de reações de sangue a d
 
 - **Linguagem de Programação:** C#
 - **Biblioteca de Processamento de Imagens:** OpenCvSharp
-- **Interface de Usuário:** WinForms 
+- **Interface de Usuário:** WinForms
+- **Técnicas para Facilitar a detecção:** Conversão para escala de cinza e Limiarização/Binarização 
 
 
